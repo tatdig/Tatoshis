@@ -1,4 +1,4 @@
-Satoshis
+Tatoshis
 ========
 
 Current version: 1.3.1
@@ -30,25 +30,12 @@ Commands:
 /debit <player> <amount> - Subtract the specified amount from the given player's balance  
 
 Permissions:
-satoshis.* - All commands  
-satoshis.money - /money  
-satoshis.transact - /transact  
-satoshis.withdraw - /withdraw  
-satoshis.admin - /admin  
-satoshis.info - /syscheck  
-satoshis.credit - /credit  
-satoshis.debit - /debit
+tatoshis.* - All commands  
+tatoshis.money - /money  
+tatoshis.transact - /transact  
+tatoshis.withdraw - /withdraw  
+tatoshis.admin - /admin  
+tatoshis.info - /syscheck  
+tatoshis.credit - /credit  
+tatoshis.debit - /debit
 
-
-3rd party Jenkins
------------------
-
-chamunks has been kind enough to provide us with a build server.
-
-The builds are manual, so changes may not be immediate.
-
-*As this is not my build server, I have no control over the build process itself!*
-
-*Use it at your own risk!*
-
-**http://ci.nixium.com/view/Manual%20Builds/job/Satoshis/**
