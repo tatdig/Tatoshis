@@ -3,7 +3,7 @@ Tatoshis
 
 Current version: 1.3.1
 
-Minecraft with real money!  
+Minecraft with real money! Minecraft 1.15+ Vault Economy Provider.
 
 Ah, economy plugins... Without them, we would have no in game currency! But what if this in game currency... was also out-of-game currency?  
 
@@ -33,7 +33,7 @@ Permissions:
 tatoshis.* - All commands  
 tatoshis.money - /money  
 tatoshis.transact - /transact  
-tatoshis.withdraw - /withdraw  
+tatoshis.withdraw - /withdraw
 tatoshis.admin - /admin  
 tatoshis.info - /syscheck  
 tatoshis.credit - /credit  
