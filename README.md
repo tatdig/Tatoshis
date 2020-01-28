@@ -3,7 +3,7 @@ Tatoshis
 
 Current version: 1.3.1
 
-Minecraft with real money! Minecraft 1.15+ Vault Economy Provider.
+Minecraft with real life cryptocurrency! Minecraft 1.15+ Vault Economy Provider.
 =
 TESTNET server with ChestShop3 and Tatoshis running on mc.itservicefl.com. Try it!
 =
