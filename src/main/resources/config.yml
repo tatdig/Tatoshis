@@ -1,4 +1,4 @@
-satoshis:
+tatoshis:
   # Tax rate in percent
   tax: 5.0
   # Tax sales or withdrawals?
@@ -6,23 +6,29 @@ satoshis:
   # Whether or not the buyer will pay the sales tax (only used if 'sales-tax' is enabled)
   is-buyer-responsible: true
   # Username of the owner (All taxes go to this player)
-  owner: meta1203
+  ownersUUID: 78e3a3ed-8528-4de5-a991-9ea087d7adfc
   # Value of single Bitcoin
   multiplier: 1000.0
   # Name of the in-game currency
-  currency-name: 'mBTC'
+  currency-name: 'mTDC'
   # Use Vault Integration
   use-vault: true
-bitcoin:
+persistance:
+  #Mysql database name
+  database_name: tatoshisdb
+  #Mysql user name to access database
+  database_user: tatoshis
+  #Mysql password to access database
+  database_pass: tatoshis
+tdcoin:
   # How much in-game currency is require to withdraw to Bitcoin.
   min-withdraw: 0
   # Transaction Confirmations required for crediting player?
   confirms: 1
   # Enable testnet blockchain
-  testnet: false
+  testnet: true
 self-check:
   # How often to do a total system check? (Hours or -1 to disable)
   delay: -1
   # Do a total system check on startup?
   startup: false
-
