@@ -37,6 +37,7 @@ tatoshis.* - All commands
 tatoshis.money - /money  
 tatoshis.transact - /transact  
 tatoshis.withdraw - /withdraw
+
 tatoshis.admin - /admin  
 tatoshis.info - /syscheck  
 tatoshis.credit - /credit  
