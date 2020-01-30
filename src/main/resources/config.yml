@@ -13,9 +13,9 @@ tatoshis:
   currency-name: 'Coin'
 persistance:
 #database properties
-  url: 'mysql://localhost:3306/Tatoshi'
-  user: 'tatoshi'
-  password: 'tatoshi'
+  url: [jdbc:mysql://localhost:3306/YourDataBaseNameHere]
+  user: [your database user]
+  password: [your database password]
 tdcoin:
   # How much in-game currency is require to withdraw to Bitcoin.
   min-withdraw: 0
