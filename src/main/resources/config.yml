@@ -10,9 +10,7 @@ tatoshis:
   # Value of single Bitcoin
   multiplier: 1000.0
   # Name of the in-game currency
-  currency-name: 'mTDC'
-  # Use Vault Integration
-  use-vault: true
+  currency-name: 'Coin'
 persistance:
   #Mysql database name
   database_name: tatoshisdb
