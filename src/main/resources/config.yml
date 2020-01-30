@@ -17,8 +17,8 @@ persistance:
   user: your database username
   password: your database password
 tdcoin:
-  # How much in-game currency is require to withdraw to Bitcoin.
-  min-withdraw: 0
+  # How much in-game currency is require to withdraw to TDCoin address.
+  min-withdraw: 100000
   # Transaction Confirmations required for crediting player?
   confirms: 1
   # Enable testnet blockchain
