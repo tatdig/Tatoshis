@@ -12,7 +12,7 @@ tatoshis:
   # Name of the in-game currency
   currency-name: 'Coin'
 persistance:
-#database connection string
+#database properties
   url: 'mysql://localhost:3306/Tatoshi'
   user: 'tatoshi'
   password: 'tatoshi'
