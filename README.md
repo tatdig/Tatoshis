@@ -24,7 +24,7 @@ Commands:
 
 /money - List current amount of TDCcoin in your minecraft account.  
 /transact <player> <amount> - Transfer's money from your account to the selected player's account.  
-/deposit - Get a TDCcoin address to send a deposit to. The next transaction to that address will fund your account.  
+/deposit - Get a TDCoin address to send a deposit to. The next transaction to that address will fund your account.  
 /withdraw <address> [amount] - Transfers money from your account to your TDCoin wallet. Must have at least the amount specified in the config. If the amount is left off, it will transfer all of your funds.  
 /admin info - Print basic debugging and economy info.  
 /admin reset - Delete and re-download the block chain.  
