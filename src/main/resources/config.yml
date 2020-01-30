@@ -12,12 +12,10 @@ tatoshis:
   # Name of the in-game currency
   currency-name: 'Coin'
 persistance:
-  #Mysql database name
-  database_name: tatoshisdb
-  #Mysql user name to access database
-  database_user: tatoshis
-  #Mysql password to access database
-  database_pass: tatoshis
+#database connection string
+  url: 'mysql://localhost:3306/Tatoshi'
+  user: 'tatoshi'
+  password: 'tatoshi'
 tdcoin:
   # How much in-game currency is require to withdraw to Bitcoin.
   min-withdraw: 0
