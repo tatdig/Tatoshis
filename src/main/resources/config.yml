@@ -13,7 +13,7 @@ tatoshis:
   currency-name: 'Coin'
 persistance:
 #database properties
-  url: jdbc:mysql://localhost:3306/YourDataBaseNameHere
+  url: jdbc:mysql://localhost:3306/YourDataBaseNameHere?autoReconnect=true
   user: your database username
   password: your database password
 tdcoin:
