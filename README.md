@@ -17,11 +17,11 @@ The design is simple:
 1) Player starts with no money  
 2) Player can add money to their account by sending TDCoin to a certain address.  
 3) Player can withdraw money from their account to any TDCoin address.  
-4) Trade takes place as usual, as the plugin links into vault. Any shop/purchase plugin supporting vault is supported here!  
+4) Trade takes place as usual, as the plugin hooks to "Vault". Theoretically any shop/purchase plugin supporting "Vault" should work.  
 5) Tax system allows for a "Sales Tax" on each money transfer. The settings for whether the buyer or the seller is held responsible for tax, and for tax rates, are available in the config.  
 
 Commands:  
-
+=
 /money - List current amount of TDCcoin in your minecraft account.  
 /transact <player> <amount> - Transfer's money from your account to the selected player's account.  
 /deposit - Get a TDCoin address to send a deposit to. The next transaction to that address will fund your account.  
@@ -33,6 +33,7 @@ Commands:
 /debit <player> <amount> - Subtract the specified amount from the given player's balance  
 
 Permissions:
+=
 tatoshis.* - All commands  
 tatoshis.money - /money  
 tatoshis.transact - /transact  
@@ -44,3 +45,4 @@ tatoshis.credit - /credit
 tatoshis.debit - /debit
 
 Please feel free to request TESTNET TDCoins. 10 TDCTN will be given for testing purpose.
+=
