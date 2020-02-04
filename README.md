@@ -11,7 +11,7 @@ TESTNET server with ChestShop3 and Tatoshis running on mc.itservicefl.com. Try i
 Ah, economy plugins... Without them, we would have no in game currency! But what if this in game currency... was also out-of-game currency?  
 
 *Enter Tatoshis!*
-Coupled with the TDCoin P2P digital currency, you can trade in game with real money!
+Coupled with the TDCoin P2P digital currency, you can trade in game with real crypto coins!
 
 The design is simple:  
 1) Player starts with no money  
