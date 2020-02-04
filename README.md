@@ -15,8 +15,8 @@ Coupled with the TDCoin P2P digital currency, you can trade in game with real mo
 
 The design is simple:  
 1) Player starts with no money  
-2) The player can add money to their account by sending TDCoin to a certain address.  
-3) The player can withdraw money from their account to any TDCoin address.  
+2) Player can add money to their account by sending TDCoin to a certain address.  
+3) Player can withdraw money from their account to any TDCoin address.  
 4) Trade takes place as usual, as the plugin links into vault. Any shop/purchase plugin supporting vault is supported here!  
 5) Tax system allows for a "Sales Tax" on each money transfer. The settings for whether the buyer or the seller is held responsible for tax, and for tax rates, are available in the config.  
 
@@ -25,7 +25,7 @@ Commands:
 /money - List current amount of TDCcoin in your minecraft account.  
 /transact <player> <amount> - Transfer's money from your account to the selected player's account.  
 /deposit - Get a TDCoin address to send a deposit to. The next transaction to that address will fund your account.  
-/withdraw <address> [amount] - Transfers money from your account to your TDCoin wallet. Must have at least the amount specified in the config. If the amount is left off, it will transfer all of your funds.  
+/withdraw \<address\> [amount] - Transfers money from your account to your TDCoin wallet. Must have at least the amount specified in the config. If the amount is left off, it will transfer all of your funds.  
 /admin info - Print basic debugging and economy info.  
 /admin reset - Delete and re-download the block chain.  
 /syscheck - Verify that the current TDCcoin holdings tally with the balances of all in-game accounts.  
@@ -43,3 +43,4 @@ tatoshis.info - /syscheck
 tatoshis.credit - /credit  
 tatoshis.debit - /debit
 
+Please feel free to request TESTNET TDCoins. 10 TDCTN will be given for testing purpose.
