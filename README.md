@@ -26,8 +26,8 @@ Commands:
 /transact <player> <amount> - Transfer's money from your account to the selected player's account.  
 /deposit - Get a TDCoin address to send a deposit to. The next transaction to that address will fund your account.  
 /withdraw \<address\> [amount] - Transfers money from your account to your TDCoin wallet. Must have at least the amount specified in the config. If the amount is left off, it will transfer all of your funds.  
-/admin info - Print basic debugging and economy info.  
-/admin reset - Delete and re-download the block chain.  
+/tatoshis info - Print basic debugging and economy info.  
+/tatoshis reset - Delete and re-download the block chain.  
 /syscheck - Verify that the current TDCcoin holdings tally with the balances of all in-game accounts.  
 /credit <player> <amount> - Add the specified amount to the given player's balance  
 /debit <player> <amount> - Subtract the specified amount from the given player's balance  
