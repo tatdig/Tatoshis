@@ -2,4 +2,4 @@ Commands description
 =
 
 /deposit - run this command to find out TDCoin address for your account on the server
-![Alt text](relative/path/to/img.jpg?raw=true "Title")
+![Result of running /deposit command](/images/tatoshis_deposit.png?raw=true "/deposit Example")
