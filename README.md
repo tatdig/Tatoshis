@@ -45,5 +45,9 @@ tatoshis.info - /syscheck
 tatoshis.credit - /credit  
 tatoshis.debit - /debit
 
-Please feel free to request TESTNET TDCoins. 10 TDCTN will be given for testing purpose.
+Where to get coins?
 =
+Please feel free to request TESTNET TDCoins. 10 TDCTN will be given for testing purpose.
+Mine coins with TDCoin android miner - https://www.tdcoincore.org/android/
+Purchase mining contract - https://www.tdcoincore.org/mining/
+
