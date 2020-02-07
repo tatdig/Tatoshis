@@ -16,3 +16,5 @@ For operators
 
 /tatoshis info - run this command to coin network, last coin transactions, total balance in server wallet
 ![Result of running /tatoshis info command](/images/tatoshis_info.png?raw=true "/tatoshis info Example")
+
+/tatoshis reset - run this command to reset blockchain file (delete and redownload), server will freeze for a minute
