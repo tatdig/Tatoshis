@@ -1,23 +1,23 @@
-author: meta1203
+author: TDCoinCore
 database: true
-main: me.meta1203.plugins.satoshis.Satoshis
-name: Satoshis
+main: me.meta1203.plugins.satoshis.Tatoshis
+name: Tatoshis
 url: http://www.kruxkraft.com/
 softdepend: [Vault]
 version: '1.3'
 commands:
   deposit:
-    description: 'Deposit money through Bitcoin address'
+    description: 'Deposit money through TDCoin address'
   money:
     description: 'List your in-game money balance'
   withdraw:
-    description: 'Withdraw money to a Bitcoin address'
+    description: 'Withdraw money to a TDCoin address'
   transact:
     description: 'Send in-game money to player'
   satoshis:
     description: 'Print testing info'
   syscheck:
-    description: 'Check Satoshis system health'
+    description: 'Check Tatoshis system health'
   credit:
     description: 'Credit in-game money to player'
   debit:
