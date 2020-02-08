@@ -48,6 +48,8 @@ tatoshis.debit - /debit
 Where to get coins?
 =
 Please feel free to request TESTNET TDCoins. 10 TDCTN will be given for testing purpose.
+
 Mine coins with TDCoin android miner - https://www.tdcoincore.org/download/android/
+
 Purchase mining contract - https://www.tdcoincore.org/mining/
 
