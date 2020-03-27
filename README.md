@@ -32,6 +32,8 @@ Commands:
 /syscheck - Verify that the current TDCcoin holdings tally with the balances of all in-game accounts.  
 /credit <player> <amount> - Add the specified amount to the given player's balance  
 /debit <player> <amount> - Subtract the specified amount from the given player's balance  
+/reward <player> <amount> - Transfer's money from server account to the selected player's account. Can be used in console and command block.
+  This command understand @ selectors.
 
 Permissions:
 =
