@@ -16,7 +16,7 @@ Coupled with the TDCoin P2P digital currency, you can trade in game with real cr
 
 The design is simple:  
 1) Player starts with no money  
-2) Player can add money to their account by sending TDCoin to a certain address.  
+2) Player can add money to their account by sending TDCoin to a certain address(see /deposit command).  
 3) Player can withdraw money from their account to any TDCoin address.  
 4) Trade takes place as usual, as the plugin hooks to "Vault". Theoretically any shop/purchase plugin supporting "Vault" should work.  
 5) Tax system allows for a "Sales Tax" on each money transfer. The settings for whether the buyer or the seller is held responsible for tax, and for tax rates, are available in the config.  
