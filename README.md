@@ -55,3 +55,4 @@ Mine coins with TDCoin android miner - https://www.tdcoincore.org/download/andro
 
 Purchase mining contract - https://www.tdcoincore.org/mining/
 
+Mine coins - https://www.tdcoincore.org/pool/
